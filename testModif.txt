@@ -1,0 +1,9 @@
+git remote add origin <link>
+git remote add <nom> <link> --> collaboration avec quelqu'un
+git pull <nom> main
+git switch 
+git clone <url>
+cd <dossier copier>
+git add <fichier>
+git commit -m "Test" --> local
+git push origin main --> remote
